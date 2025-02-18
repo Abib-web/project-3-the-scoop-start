@@ -1,4 +1,5 @@
 # The Scoop
+![image](https://github.com/user-attachments/assets/33a4d7c8-39e6-4a4f-9c18-5964df629207)
 
 ## Aperçu du projet
 
